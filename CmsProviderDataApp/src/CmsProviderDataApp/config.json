@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "CmsProviderDataApp"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-CmsProviderDataApp-eb5fe5d5-e17a-4a81-a345-93aef6676d53;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
